@@ -5,7 +5,7 @@ Dieses E-Portfolio wurde von Daniel Spahn erstellt. Es dient als Prüfungsleistu
 
 Dieses Portfolio, sowie die Lösung für Aufgabe 1 von Block 3 ist auf GitHub zu finden.
 
-Portfolio: https://github.com/Kugelhaufen/funktionale-programmierung
+Portfolio: https://github.com/Kugelhaufen/Funktionale-Programmierung
 
 Aufgabe 3.1 (Minesweeper): https://github.com/Kugelhaufen/Racket-Minesweeper
 
